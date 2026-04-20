@@ -16,7 +16,7 @@ public class Main {
 		window.pack();
 		window.setVisible(true);
 		panel.startGameThread();
-		
+		System.out.println("ciao sono qui");
 		
 	}
 
